@@ -1,0 +1,39 @@
+name = 0xTheme
+description = Project 0xTheme
+core = 7.x
+base theme = bootstrap
+php = 5.3.0
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[header2_left]   = 'Header 2 Left'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer]         = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+regions[footer_first]   = 'Footer First'
+regions[footer_message] = 'Footer Message'
+regions[footer_menu_1]  = 'Footer Menu 1'
+regions[footer_menu_2]  = 'Footer Menu 2'
+regions[footer_menu_3]  = 'Footer Menu 3'
+regions[footer_menu]    = 'Footer Menu'
+regions[footer_social]  = 'Footer Social'
+regions[footer_copyright] = 'Footer Copyright'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/responsive.css
+stylesheets[all][] = css/color.css

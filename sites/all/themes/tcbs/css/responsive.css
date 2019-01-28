@@ -1,0 +1,46 @@
+@media (max-width: 767px) {
+  footer#footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  footer#footer .footer-blocks .footer-menu .sidebar-menu {
+    padding-top: 0px;
+  }
+  footer#footer .footer-message {
+    padding-bottom: 0px;
+    padding-left: 30px;
+  }
+  footer#footer h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  footer#footer .subscribe-form-input {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  }
+  footer#footer .footer-subscribe #contact_email {
+    width: 90%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-right: 0px;
+  }
+  footer#footer .footer-subscribe .subscribe-form-submit {
+    width: 90%;
+    text-align: center;
+  }
+  footer#footer .footer-blocks .footer-menus,
+  footer#footer .footer-copyright,
+  footer#footer .footer-follow-wrap,
+  footer#footer .footer-message .block-content,
+  footer#footer .footer-copyright .block-content,
+  footer#footer .footer-copyright-menu-social .footer-menu,
+  footer#footer .footer-social {
+    text-align: center;
+  }
+  footer#footer .footer-social {
+    padding-top: 20px;
+  }
+}

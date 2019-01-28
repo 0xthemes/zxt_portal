@@ -1,0 +1,19 @@
+<?php
+module_load_include('inc', 'zxt_helper', 'zxt_helper.db');
+module_load_include('inc', 'zxt_helper', 'zxt_helper.term');
+
+//temp remove later
+function zxt_helper_menu() {
+ $items['direct/print'] = array(
+    'page callback' => '_zxt_helper_temp_direct_print',
+    'access arguments' => TRUE,
+    'access callback' => TRUE,
+    'type' => MENU_CALLBACK,
+  );
+  return $items;
+ }
+
+function _zxt_helper_temp_direct_print(){
+  $as = zxt_helper_terms_by_voc(8);
+  print '<pre>' . print_R($as, TRUE) . ' </pre>';
+}

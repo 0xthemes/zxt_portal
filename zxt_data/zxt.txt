@@ -1,0 +1,250 @@
+ICO 2 caps 
+  Soft Cap : 1M
+
+If utility token, need zxt for following operations
+  Upload item for sales (first 10 items will be free)
+  * List in featured items 
+  To access detail analytics
+  To access API 
+  Priority Approval of item
+  Services 
+  Paypal (10%)
+  If a designer want developers to bid the rights
+  Partners like hosting needs to pay in 0x 
+  Developer / freelancers supports need to pay for listing 
+
+
+
+
+
+  
+Either hold the token for X amount of period or pay for one time or stake. 
+
+
+
+
+Governace team should be combination of founding team, sellers, buyers and token holders. 
+Founding team should implement the bills which are passed by votings
+Purpose of the token is security, nothing else. 
+
+
+
+Future feature request 
+  Anyone with tokens can request for new feature
+  Features will be choosen and included based on voting (51% of total vote polled with minumum of X votes)  
+
+Make everything opensource 
+
+
+
+Road map
+  All the road maps will be based on popular vote to implement 
+  Anyone can build new feature and submit for review, and implemented based on vote
+  Data is belonged to users
+  Anyone can take the source code and his data and host the site in his own server
+  Payments will be made P2P via escrow contract
+  Self moderation
+
+Challenges 
+  How to make the community a self govern, not letting any single or group of people take over the network
+
+
+    
+
+Bounty system
+Community Building
+User onboarding
+influencer reach out 
+Networking
+
+
+
+...
+Approach FB group admins with referal benefits
+
+
+Pre - Phase 1
+  300 users
+  200 themes, 20 themes each of 10 main categories 
+  Site help contents 
+  FAQ
+  Licenses
+  Approach people and get their themes upload it
+  Approach sellers who sold less 
+  Spend some money to get first 1000 themes @ 50 USD worth of coins
+  Referal bonus for upload 
+
+        ()
+Items   Items/User  Cost(Premium/Free)                 Referal                              Max Referral      Total Cost
+300     ~           50/20 (15k,6k = 21k)               50 (only first upload and approed)   300*50=15k        36k
+1500    50          30/10 (45k,15k = 60k)              30                                   1500*30=45k       105k
+5000    20          15/5  (75k,25k = 100k)             15                                   5000*15=75k       175k
+10000   20          10/3  (100k,30k = 130k)            10                                   10000*10=100k     230k     (start approve sales) 
+
+
+prizes, best 13 themes in fiirst 5000 themes, 10k = (5kx1, 2kx2, 100x10)
+
+
+
+####################
+###  Community : ###
+####################
+
+Public Bounty
+Increase Founder's worth
+  Create partnership with other projects
+  Create meetup about other projects
+  Participate in twitter discussions
+  Give geniune and constructive feedback to other crypto projects
+  Give away free ICO investors db to few geniune ICOs
+  Add all cryto people in all social media 
+  Approach Crypto heads to get feedback about the projects
+  Help to list in reivew / listing sites like producthunt, ICO review sites
+  Helping Good community ICOs by providing good supports
+    Write well research content and share in major Social media, make sure engaged
+      Celebrate the Founders, make them special, personalise the Founders
+    Conversation
+    Constructive feedback
+    Providing DB
+    Work for them as group, example whitepaper design, banner design
+    Meetup, online and offline with videos and photos
+    Making connection with others
+    Helping them to list in Exchanges 
+    Keep engage with the team till end of the ICOs
+    Help them to design bounty and airdrop system, and provide / setup needed Tools 
+    Select ICO based on 
+      Good projects
+      Community projects
+      With good advisors 
+      Help everyone to grow
+    Pay it forward, use the work of first ICO people to help forthcoming ICO people
+    Keep Collect all crypto related groups / community, it will help later to reach out lot more people
+    Guest blogging
+
+
+Helping and participating in a project  
+  Day 1 : Get 1 best project
+          Get list of all the way we can help them, Create a template for this
+          Prepare the deatail constructive feedback - Create Template for this
+  Day 2 : Prepare article(s), with graphics, personolise the founder, add value to them, proof reading and make preparation for day 3
+          Read for social media discussion
+          Initial tweet and discussions 
+  Day 3 : Prepare for broadcasting 
+          @todo, design how we broadcasting
+          Post in best possible publication
+  Day 4 :
+        Create presentable report of constructive feedback
+
+  Day 5 :
+        Fix their issues
+        Give the Marketting Materials like research DB
+        @todo, create list of help we going to provide
+  Day 6 : 
+        Spend for older projects
+
+
+
+          
+
+Social Media Lists
+  Medium
+  Facebook groups
+  Reddit 
+  Bitcoin talk 
+  Become Gust author 
+  twitter
+  Linkedin
+  Google groups
+  Create initial engagement in every post
+
+
+
+Create general articles and write as a guest author in popular publications
+
+
+    
+Ideas for General articles for guest blogging
+  Comparision of DAG based projects
+  How to run a successful ICO, investor point of view
+  Create some usefull simple Tools
+
+
+  
+
+      
+
+
+Reachout all the envato enimies
+
+
+
+Potential Partners
+  1) Dether
+  2) 
+
+
+Tomorrow 
+  Tools to use for project management
+  List of tasks, deadlines and responsibilities
+  Bounty system design 
+  Black pearl dinner
+
+Tools 
+  Mind map
+
+
+Market research and identification 
+Collect the overall reposotory  
+  Collecte the User base, from online communities, classify by multiple criteria
+  Collect the influincers / FB Admins DB
+  Collect the blogs and blog authors about themes
+  Collect top articles links about this market 
+  Collect list of all envato competators marketplace sites
+  Collect individual theme selling sites
+  Top Opensource contributer, who build real opensource projects
+  Twitter lists, hashes, mentions
+  WP, drupal, zyx free theme contributors list
+  List of theme affiliates 
+  Meetup / events about of opensource projects 
+  Meetups of envato themes list
+  Post job about themes in freelancing sites
+  Enemies list of envato 
+  crawl Sellers website's who.is data
+  https://freemius.com/blog/themeforest-wordpress-themes-analyisis/
+  https://devwp.eu/business/envato-or-why-race-to-the-bottom-is-dangerous/
+  Create a survey about sellers satisfication 
+
+
+Marketting
+
+Trigger the Envato founders online by comparing they cons with our pros, using sellers
+Create Videos about how envoto failed me and how i recover with 0xtheme
+Create tredning hash
+Make oxtheme popular in alternativeTO sites
+how common people won the Croney captitalist envato
+How envato tried to buy 0xthemes to kill compatators
+centralised vs decntralised, how 0xtheme killed centralised monopoly
+lot of Oneliner they vs Us
+
+
+
+
+
+
+  Market research 
+
+
+Post ICO 
+  Everyone take 52% of ETH to founders
+  rest 48% will be held for 3 years 
+  Each year, 16% will be distributed to rest of the founders, everyone must be 365 days to get the %
+  Founders tokens are locked for 3 years. 
+  Everyone should share equal responsibilities
+
+
+
+
+Onliners 
+  david vs goliath
+  Cryony captitalism of envato
+

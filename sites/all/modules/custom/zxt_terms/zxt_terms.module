@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ZXT terms feature.
+ */
+
+include_once 'zxt_terms.features.inc';

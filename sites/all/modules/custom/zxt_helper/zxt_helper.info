@@ -1,0 +1,5 @@
+name = ZXT Helper
+description = All common DB query functions goes here
+package = ZXT
+core = 7.x
+files[] = zxt_helper.db.inc

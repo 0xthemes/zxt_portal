@@ -1,0 +1,5 @@
+name = ZXT URLs
+description = Alter the URL for SEO frieldly
+package = ZXT
+core = 7.x
+files[] = zxt_urls.inc

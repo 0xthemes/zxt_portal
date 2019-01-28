@@ -1,0 +1,14 @@
+<?php
+module_load_include('inc', 'zxt_urls', 'zxt_urls');
+
+
+//temp remove later
+function zxt_urls_menu() {
+ $items['zxt_urls/print'] = array(
+    'page callback' => '_zxt_helper_temp_direct_print',
+    'access arguments' => TRUE,
+    'access callback' => TRUE,
+    'type' => MENU_CALLBACK,
+  );
+  return $items;
+ }

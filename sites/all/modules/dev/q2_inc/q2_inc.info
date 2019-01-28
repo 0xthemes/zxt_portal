@@ -1,0 +1,5 @@
+name = Q2 functions
+description = all common funtions in the q2
+package = Q2 Builder
+core = 7.x
+files[] = q2_inc.db.inc
